@@ -1,1 +1,1 @@
-![alt text](https://github.com/ganling1221/Raytracer/main/softShadowImages/wojittcell4R.tiff?raw=true)
+!RESULT(./softShadowImages/wojittcell4R.tiff)
