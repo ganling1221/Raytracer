@@ -1,0 +1,36 @@
+5
+sphere
+Material: 1
+pos: 15.0 15.0 -2.0
+rad: 10
+dif: 0.3 0.3 0.3
+spe: 0.0 0.0 0.0
+shi: 1
+sphere
+Material: 1
+pos: -15.0 -15.0 -2.0
+rad: 10
+dif:  0.3 0.3 0.3
+spe: 0.0 0.0 0.0
+shi: 1
+sphere
+Material: 1
+pos: -15.0 15.0 -1.0
+rad: 10
+dif: 0.6 0.2 0.9
+spe:  0.1 0.1 0.1
+shi: 1
+sphere
+Material: 1
+pos: 15.0 -15.0 -1.0
+rad: 10
+dif: 0.6 0.2 0.9
+spe: 0.1 0.1 0.1
+shi: 1
+sphere
+Material: 1
+pos: 0.0 0.0 -3.0
+rad: 10
+dif: 0.3 0.3 0.3
+spe: 0.5 0.5 0.5
+shi: 1

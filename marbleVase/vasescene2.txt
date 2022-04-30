@@ -1,0 +1,8 @@
+ambient 0.2 0.2 0.2
+eye -5 10 -40
+look 0 0 1
+up 0 1 0
+light
+1
+pos -40 -10 -50
+col 1 1 1
