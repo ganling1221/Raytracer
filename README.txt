@@ -1,8 +1,7 @@
-# CS580-RayTracer
 
 Example input 
 
-1. ./ray_tracer ./cornell-box/cornell-box/cornellScene.txt ./cornell-box/cornell-box.txt
+1. ./ray_tracer ./cornell-box/cornellScene.txt ./cornell-box/cornell-box.txt
 use cornellScene setting and mesh data to render cornell box just display the result 
 
 2. ./ray_tracer NAME_OF_OBJFILE.obj 
